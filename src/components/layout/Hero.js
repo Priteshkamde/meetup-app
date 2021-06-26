@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Jumbotron, Container, Row, Col } from 'react-bootstrap'
 
-function Hero(props) {
+function Hero() {
     return (
         <Jumbotron className="bg-transparent jumbotron-fluid p-0">
             <Container fluid={true}>

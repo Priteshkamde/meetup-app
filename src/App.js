@@ -27,6 +27,9 @@ function App() {
         <Favorites />
       </Route>
       </Switch>
+
+      <footer className='pb-2 font-bold'>Built by Pritesh</footer>
+
     </Container>
   );
 }
